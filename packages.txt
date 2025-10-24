@@ -1,0 +1,2 @@
+# (Opcional) Pacotes do sistema para deploy no Streamlit Community Cloud
+# Deixe vazio por enquanto. Só adicione se for usar OCR (ex.: poppler-utils).
